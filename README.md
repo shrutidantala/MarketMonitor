@@ -79,4 +79,4 @@ This project demonstrates practical integration of C++, message streaming, Redis
 
 ## Dashboard Preview
 
-![Market Monitor Dashboard](screenshots/market-monitor-dashboard.png)
+![Market Monitor Dashboard](Market_Monitor_Dashboard/market-monitor-dashboard.png)
