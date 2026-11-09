@@ -76,3 +76,7 @@ The Qt dashboard periodically retrieves the latest values from Redis and updates
 ## Purpose
 
 This project demonstrates practical integration of C++, message streaming, Redis-based data storage, and GUI-based market monitoring.
+
+## Dashboard Preview
+
+![Market Monitor Dashboard](screenshots/market-monitor-dashboard.png)
